@@ -1,6 +1,7 @@
 # My-HTTP-HTTPS-Diagrams.
 
 HTTP vs. HTTPS: A Visual Comparison.
+
 HTTP (Hypertext Transfer Protocol):
 
 Plaintext communication: Data is transmitted in plain text, making it vulnerable to interception and eavesdropping.
