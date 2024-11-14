@@ -1,5 +1,7 @@
 # My-HTTP-HTTPS-Diagrams.
 
+![HTTP-HTTPS-Layer1-Layer2](https://github.com/user-attachments/assets/69866e23-1ad4-4a92-8fff-e9e2ff5737f2)
+
 HTTP vs. HTTPS: A Visual Comparison.
 
 HTTP (Hypertext Transfer Protocol):
